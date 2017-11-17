@@ -14,7 +14,6 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            android:layout_weight="0"
             android:contentDescription="@string/app_name"
             android:scaleType="centerCrop"
             android:src="@drawable/background_img_1280_768" />
@@ -22,7 +21,6 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="0"
             android:gravity="center"
             android:paddingBottom="15dp"
             android:paddingTop="25dp"
@@ -33,7 +31,6 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="0"
             android:gravity="center"
             android:paddingBottom="10dp"
             android:paddingTop="10dp"
@@ -44,7 +41,6 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="0"
             android:gravity="center"
             android:paddingBottom="15dp"
             android:paddingTop="5dp"
@@ -55,7 +51,6 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="0"
             android:autoLink="phone"
             android:gravity="center_horizontal"
             android:paddingBottom="5dp"
@@ -67,7 +62,6 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="0"
             android:autoLink="web"
             android:gravity="center_horizontal"
             android:paddingBottom="15dp"
