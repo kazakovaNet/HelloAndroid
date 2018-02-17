@@ -19,9 +19,7 @@
             android:src="@drawable/background_img_1280_768" />
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
+            style="@style/TextViewStyle"
             android:paddingBottom="15dp"
             android:paddingTop="25dp"
             android:text="@string/udacity"
@@ -29,9 +27,7 @@
             android:textSize="34sp" />
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
+            style="@style/TextViewStyle"
             android:paddingBottom="10dp"
             android:paddingTop="10dp"
             android:text="@string/visit_us_to_learn"
@@ -39,9 +35,7 @@
             android:textSize="24sp" />
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
+            style="@style/TextViewStyle"
             android:paddingBottom="15dp"
             android:paddingTop="5dp"
             android:text="@string/_2465_latham_st"
@@ -49,10 +43,8 @@
             android:textSize="16sp" />
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/TextViewStyle"
             android:autoLink="phone"
-            android:gravity="center_horizontal"
             android:paddingBottom="5dp"
             android:paddingTop="5dp"
             android:text="@string/_650_555_5555"
@@ -60,10 +52,8 @@
             android:textSize="16sp" />
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/TextViewStyle"
             android:autoLink="web"
-            android:gravity="center_horizontal"
             android:paddingBottom="15dp"
             android:paddingTop="5dp"
             android:text="@string/www_udacity_com"
